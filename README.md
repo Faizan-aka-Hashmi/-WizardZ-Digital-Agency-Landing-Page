@@ -1,0 +1,2 @@
+🚀 WizardZ | Digital Agency Landing Page
+A modern, responsive landing page designed for WizardZ Digital Agency. Built with clean UI/UX principles, the site highlights services, portfolio, and calls-to-action — optimized for engagement and mobile-friendly browsing.
